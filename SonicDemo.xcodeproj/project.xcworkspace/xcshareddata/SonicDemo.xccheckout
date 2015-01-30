@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>37F281C5-408B-461B-9D14-8DE4B8C40CB2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SonicDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0DD64B1F2A327E582BF117E9222CEFA409F1E093</key>
+		<string>https://github.com/philadelphiagamelab/Sonic.git</string>
+		<key>7BDE5F6E859DE225AE22365CF4E503251FD328DF</key>
+		<string>https://github.com/philadelphiagamelab/SonicDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SonicDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0DD64B1F2A327E582BF117E9222CEFA409F1E093</key>
+		<string>../../Sonic</string>
+		<key>7BDE5F6E859DE225AE22365CF4E503251FD328DF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/philadelphiagamelab/SonicDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7BDE5F6E859DE225AE22365CF4E503251FD328DF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0DD64B1F2A327E582BF117E9222CEFA409F1E093</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Sonic</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7BDE5F6E859DE225AE22365CF4E503251FD328DF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SonicDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
